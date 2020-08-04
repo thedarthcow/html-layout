@@ -1,3 +1,25 @@
-this is a test 
+body {
+    background-color: aliceblue;
+    margin: 0
+}
 
+header {
+    background-color: aqua;
+    height: 100px;
+}
 
+main {
+    width: 50%;
+    height: 600px;
+    background-color: black;
+    margin: 0 auto; 
+
+}
+
+footer {
+    width: 50%;
+    height: 70px;
+    background-color: coral;
+    margin: 0 auto; 
+
+}
